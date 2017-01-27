@@ -18,11 +18,15 @@ C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCel
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\TestTextCell.pdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\obj\Debug\TestTextCell.Droid.csprojResolveAssemblyReference.cache
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\obj\Debug\TestTextCell.Droid.dll
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\obj\Debug\TestTextCell.Droid.pdb
@@ -38,10 +42,6 @@ C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCel
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\obj\Debug\uploadflags.txt
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\TestTextCell.Droid.dll.mdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\TestTextCell.dll.mdb
-C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\FormsViewGroup.dll.mdb
-C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
-C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Java.Interop.dll.mdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\Mono.Android.dll.mdb
 C:\Users\mgaucher\Documents\Visual Studio 2015\Projects\TestTextCell\TestTextCell\TestTextCell.Droid\bin\Debug\mscorlib.dll.mdb

@@ -4,17 +4,27 @@
              xmlns:local="clr-namespace:TestTextCell"
              x:Class="TestTextCell.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
-           HorizontalOptions="Center" />
-
- 
+  
+<ScrollView>
+ <StackLayout>
   <ListView ItemsSource="{Binding .}" >
     <ListView.ItemTemplate>
       <DataTemplate>
-        <TextCell  Detail="Detail : Work"  Text="Text : Don't work">
+        <TextCell  Detail="Detail : Work"  Text="Text : Don't work" >
         </TextCell>
       </DataTemplate>
     </ListView.ItemTemplate>
   </ListView>
+
+  <ListView ItemsSource="{Binding .}" >
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <TextCell  Detail="Detail : Work"  Text="Text : Work" TextColor="Fuchsia">
+        </TextCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+
+ </StackLayout>
+ </ScrollView>
 </ContentPage>
